@@ -1,0 +1,31 @@
+.about#gradient {
+
+	background-color: blueviolet;
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, blueviolet, white);
+	/* Standard syntax (must be last) */
+}
+
+.services#gradient {
+
+	background-color: blueviolet;
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, blueviolet, white);
+	/* Standard syntax (must be last) */
+}
+
+.gallery#gradient {
+
+	background-color: blueviolet;
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, blueviolet, white);
+	/* Standard syntax (must be last) */
+}
+
+.footer_1#gradient {
+
+	background-color: rgb(25, 7, 43);
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, blueviolet, white);
+	/* Standard syntax (must be last) */
+}
