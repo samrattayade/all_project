@@ -1,0 +1,10 @@
+html,
+body {}
+
+.navbar {
+	background-color: rgb(231, 7, 167);
+}
+
+.navbar .navbar-nav {
+	color: #b7ac99;
+}
